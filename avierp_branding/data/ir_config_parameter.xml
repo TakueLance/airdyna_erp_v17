@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<odoo>
-    <data noupdate="1">
-        <function model="ir.config_parameter" name="set_param" eval="('app_system_name', 'AviERP')"/>
-        <function model="ir.config_parameter" name="set_param" eval="('app_documentation_url', 'https://www.airdyna.co.zw')"/>        
-        <function model="ir.config_parameter" name="set_param" eval="('app_support_url', 'https://www.airdyna.co.zw')"/>
-    </data>
-</odoo>
