@@ -1,0 +1,7 @@
+<templates>
+    <t t-inherit-mode="extension" t-inherit="web.NavBar" owl="1">
+        <xpath expr="//DropdownItem" position="replace">
+            <img src="/web/image/company_logo" style="padding: 4px;" />
+        </xpath>
+    </t>
+</templates>
